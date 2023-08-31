@@ -1,0 +1,14 @@
+github.com/clbanning/mxj/v2 v2.7.0 h1:WA/La7UGCanFe5NpHF0Q3DNtnCsVoxbPKuyBNHWRyME=
+github.com/clbanning/mxj/v2 v2.7.0/go.mod h1:hNiWqW14h+kc+MdF9C6/YoRfjEJoR3ou6tn/Qo+ve2s=
+github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
+github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+github.com/shura1014/balance v1.0.0 h1:DF6KEbUEbAVnpDm4To5U7DS6ZEb2d2zm3dLuvZf7dcw=
+github.com/shura1014/balance v1.0.0/go.mod h1:cVJ00hQiAMDuUxHAIF+BkOg72iKwaMQUoE2mYQeaLAM=
+github.com/shura1014/common v1.0.4 h1:DvdNdaW4xnGM/MKRSPFpoxUgrDueTi9C0H7EJTVrwmc=
+github.com/shura1014/common v1.0.4/go.mod h1:iTzLDUVaRxncI4Pw28oGxqWQyMAEzNagnihRW6Yntfo=
+github.com/shura1014/httpclient v1.0.0 h1:vjD0rxmaWYC+Y8Rs2uBBFzIEpGdvN9uzBKA3ASv07Sk=
+github.com/shura1014/httpclient v1.0.0/go.mod h1:C22Y/wEkpiVhm0kAb4Bjf+7zyVYDnOLthGUnL+hDD8c=
+github.com/shura1014/logger v1.0.1 h1:V/GATbrkNrZwOisEmaDYa2+cYlabpKLsWEsaX3cLf0w=
+github.com/shura1014/logger v1.0.1/go.mod h1:91X/NusZ0dNv6m+db56u14ZUWNADSzwxA2WqKdGZyAk=
+github.com/shura1014/registry v1.0.0 h1:Cv0ZwEm/GcCb33UuRFR5Y1yvcPvxbwaxem9c50Z3S64=
+github.com/shura1014/registry v1.0.0/go.mod h1:b0ychbzNeIMP85L2qjWrrS+MBFCms4vyw3SVyRvAOtA=
